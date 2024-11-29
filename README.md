@@ -76,7 +76,6 @@ assign f6=a^b;
 assign f7=~(a^b);
 endmoduled
 ```
-verify its truth table in quartus using Verilog programming
 
  Developed by:Mohammed Towfeeq.S RegisterNumber: 24000491
  
@@ -91,7 +90,8 @@ verify its truth table in quartus using Verilog programming
 ![Screenshot (30)](https://github.com/user-attachments/assets/d959bb56-d203-4f38-889c-87f56a5b7559)
 
 
+
 **Result:**
- The basic logic gates are studied are truth tables verified
+ The basic logic gates are studied are truth tables verified.
 
 
