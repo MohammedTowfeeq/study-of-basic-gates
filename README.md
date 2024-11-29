@@ -78,7 +78,7 @@ endmoduled
 ```
 verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 24000491
+ Developed by:Mohammed Towfeeq.S RegisterNumber: 24000491
  
 **Logic symbol & Truthtable**
 ![image](https://github.com/user-attachments/assets/afc03a69-5275-4df0-ab64-4027547b25a6)
