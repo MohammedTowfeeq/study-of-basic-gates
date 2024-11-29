@@ -84,10 +84,12 @@ verify its truth table in quartus using Verilog programming
 ![image](https://github.com/user-attachments/assets/afc03a69-5275-4df0-ab64-4027547b25a6)
 
 **RTL realization Output:***
-![Screenshot (2)](https://github.com/user-attachments/assets/1f4c658c-3cf9-4130-a914-7a3ff8349ea7)
+![Screenshot (29)](https://github.com/user-attachments/assets/4382fc0c-fe97-479e-9980-6acf6ea9a39d)
+
 
 **Time wave form**
-![Screenshot (1)](https://github.com/user-attachments/assets/8776ab16-6918-46e1-bc80-6c5af45845dc)
+![Screenshot (30)](https://github.com/user-attachments/assets/d959bb56-d203-4f38-889c-87f56a5b7559)
+
 
 **Result:**
  The basic logic gates are studied are truth tables verified
